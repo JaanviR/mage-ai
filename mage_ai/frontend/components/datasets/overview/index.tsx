@@ -296,7 +296,7 @@ function DatasetOverview({
                 )}
               </Flex>
             </FlexContainer>
-            <Spacing mt={8}>
+            <Spacing mt={4}>
               <FeatureProfiles
                 features={features}
                 featureSet={featureSet}
